@@ -1,0 +1,42 @@
+.navbar {
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    width: 1400px;
+    display: flex;
+    margin: 50px;
+    background-color: #f8fafa;
+    box-shadow: 0px 20px 50px rgb(191, 191, 191),
+    25px 25px 40px rgb(191, 191, 191);
+    
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navLinks {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .navLinks li {
+    margin: 0;
+  }
+  
+  .navLinks a {
+    text-decoration: none;
+    color: #000000;
+    transition: color 0.3s;
+  }
+  
+  .navLinks a:hover {
+    color: #ff0000; /* Hover rangini o'zgartirish */
+  } 
+  .nv{
+    display: flex;
+    justify-content: center;
+    background-image: url('../public/p1.jpg');
+  }
