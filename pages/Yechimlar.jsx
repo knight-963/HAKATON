@@ -32,8 +32,12 @@ const Yechimlar = () => {
 <div className="flex justify-center">
     <div className="">
     <img className='p-10' src="bac.jpg" alt="" />
-<h1 className='text-3xl'>Agar burilish kerak bo'lsa, nima qilish kerak?</h1>
-<h1 className="text-center text-2xl p-5 pt-8"></h1>
+<h1 className='text-3xl '>Agar burilish kerak bo'lsa, nima qilish kerak?</h1>
+<h1 className=" text-2xl p-5 pt-8">
+1. Ushbu chorrahada boshqa transport vositalari bo'lmasa, buriling. <br />
+2. To'g'ridan-to'g'ri haydab, chorrahadan buriling. <br />
+3. To'g'ri harakatlaning va faqat keyingi chorrahada buriling. <br />
+</h1>
     </div>
 </div>
 
