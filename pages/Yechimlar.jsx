@@ -47,3 +47,4 @@ const Yechimlar = () => {
 }
 
 export default Yechimlar;
+
