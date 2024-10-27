@@ -3,16 +3,16 @@ import React from 'react'
 const Yechimlar = () => {
   return (
     <>
- <h1 className="text-center text-4xl p-5 pt-12">Biz muammolarni yachish uchun boshlang'ich va katta maktab o'quvchilariga shu ma'mumotlarni o'rgatishni boshlashimiz kerak!!! </h1>
+ <h1 className="text-center text-4xl p-5 mt-[-500px] text-white">Biz muammolarni yachish uchun boshlang'ich va katta maktab o'quvchilariga shu ma'mumotlarni o'rgatishni boshlashimiz kerak!!! </h1>
 
 
 
 
-    <h1 className="text-center text-2xl p-5 pt-8">3.4-mavzu. Yo'l belgilari. Majburiy belgilar</h1>
-    <h1 className="text-center text-xl p-5">Ba'zi haydovchilar ushbu guruhning belgilarini ko'rib, <br /> ular tabiatan maslahatchi deb o'ylashadi.</h1>
+    <h1 className="text-center text-2xl p-5 pt-8 text-white">3.4-mavzu. Yo'l belgilari. Majburiy belgilar</h1>
+    <h1 className="text-center text-xl p-5 text-white">Ba'zi haydovchilar ushbu guruhning belgilarini ko'rib, <br /> ular tabiatan maslahatchi deb o'ylashadi.</h1>
 
 
-<div className="flex p-[50px]">
+<div className="flex pt-[250px] p-[50px] items-center">
 <div><img src="malum1.jpg" alt="" /></div>
 <div><h1 className="text-center text-xl p-5" >Yaxshi xulqli ko'rinishga qaramay, retsept belgilari juda qattiq.
 </h1></div>
@@ -75,8 +75,8 @@ Biroq, istisnolar mavjud. Birinchisi, orqaga qaytishga tegishli.
 
 
 <div className="flex p-[50px]">
-<div className={styles.left}><img src="trans3.jpg" alt="" /></div>
-<div className={styles.right}><h1 className="text-center text-xl p-5" >Chapga harakatlanish imkonini beruvchi belgilar ham <br /> burilish imkonini beradi. Xo'sh, bu juda <br /> mantiqiy: men chapga bordim, sayr qildim va qaytib keldim .
+<div><img src="trans3.jpg" alt="" /></div>
+<div><h1 className="text-center text-xl p-5" >Chapga harakatlanish imkonini beruvchi belgilar ham <br /> burilish imkonini beradi. Xo'sh, bu juda <br /> mantiqiy: men chapga bordim, sayr qildim va qaytib keldim .
 
 Doniyor, [27.10.2024 16:21]
 </h1></div>
