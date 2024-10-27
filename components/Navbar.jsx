@@ -14,12 +14,9 @@ export default function Navbar() {
         <li><Link href="/">Bosh Sahifa</Link></li>
         <li><Link href="/About">Muammo Tahlili</Link></li>
         <li><Link href="/About">Yechimlar</Link></li>
-        <li><Link href="/events">Tadbirlar</Link></li>
-        <li><Link href="/resources">Resurslar</Link></li>
-        <li><Link href="/collaboration">Hamkorlik</Link></li>
-        <li><Link href="/contact">Aloqa</Link></li>
+        <li><Link href="/Register">Registratsiya</Link></li>
       </ul>
-    </nav>
+    </nav>  
         </div>
         
       </div>
